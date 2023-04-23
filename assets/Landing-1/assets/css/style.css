@@ -1,0 +1,116 @@
+body{
+    background-image: url("../imgs/Recurso\ 7bg.png");
+    background-repeat: no-repeat;
+}
+
+.header {
+    height: 15em;
+    background-image: url("../imgs/elfondo.png");
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    }
+
+.header img {
+    margin: 0px;
+    padding-left: 7.6em;
+    padding-top: 1.8em;
+}
+
+.header p {
+    margin: 0px;
+    padding-left: 7.6em;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+header{
+    margin: 0px;
+}
+
+.products {
+    margin: auto;
+    width: 92%;
+    padding-top: 1.5em;
+}
+
+.products td {
+    padding: 1em;
+    width:50%;
+}
+
+.products h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:3em;
+    margin: 0%;
+    color: blue;
+}
+
+.products h2 {
+    font-family: sans-serif;
+    font-weight:400;
+    padding: 0%;
+    margin: 0%;
+    color: blue;
+}
+
+.products h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-top: 1.5em;
+    padding-right: 10em;
+    text-align: right;
+    color: darkblue;
+}
+
+.products p{
+    size: 15em ;
+    margin: 0.2em;
+    font-family: monospace;
+    font-size: 1.1em;
+    padding-right: 16em;
+}
+
+.products img{
+    width: 60%;
+    border: solid 4px;
+    border-color: rgb(255, 217, 1);
+    margin:10px auto;
+    display:block;
+}
+
+.footer {
+    height: 6em;
+    line-height: 3em;
+    background-color: rgb(19, 19, 19);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    }
+
+.footer img {
+    margin: 10px auto;
+    margin-right: 50%;
+    width: 15%;
+    display:block;
+}
+
+.footer table{
+    width: 100%;
+}
+
+.footer h4{
+    font-size: 0.8em;
+    margin-left: 1.5em;
+    color: yellow;
+}
+
+.footer h3{
+    margin-right: 3em;
+    margin-left: 3em;
+    font-size: 0.8em;
+    color: yellow;
+}
+
